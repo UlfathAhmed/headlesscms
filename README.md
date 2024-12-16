@@ -53,8 +53,21 @@ TODO::
 
   
 **Prerequisites**
-- Node.js ^20.14
-- TypeScript
+Node.js
+Version: ^20.14 or higher.
+Required to run the application and manage dependencies.
+
+TypeScript
+Installed globally or as part of the project dependencies.
+Used for developing and compiling TypeScript files.
+
+ts-node
+Required for executing TypeScript directly without precompiling.
+Installed as a dev dependency.
+
+nodemon
+Required to monitor file changes during development and restart the server automatically.
+Installed as a dependency in the project.
 
 TODO::
 
